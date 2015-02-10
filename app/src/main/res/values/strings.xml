@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyId</string>
+    <string name="message">Your identifier : </string>
+    <string name="send">"Send by email"</string>
+
+</resources>
